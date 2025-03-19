@@ -1,0 +1,1 @@
+In this repository, I'm building a simple website with a homepage and two recipe pages to practice HTML basics I've learned from The Odin Project.
